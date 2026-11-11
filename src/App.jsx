@@ -4,6 +4,7 @@ import { Routes, Route, Link } from "react-router-dom";
 import { projects } from "./projects";
 import ProjectDetails from "./ProjectDetails";
 import "./App.css";
+import ScrollToTop from "./ScrollToTop";
 
 
 function Home() {
@@ -418,17 +419,22 @@ function Home() {
   );
 }
 
+
 function App() {
   return (
-    <Routes>
-      <Route path="/" element={<Home />} />
+    <>
+      <ScrollToTop />
 
-      <Route
-        path="/projects/tip-calculator"
-        element={<ProjectDetails />}
-      />
-    </Routes>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route
+          path="/projects/tip-calculator"
+          element={<ProjectDetails />}
+        />
+      </Routes>
+    </>
   );
 }
+
 
 export default App;
