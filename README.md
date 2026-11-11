@@ -27,6 +27,7 @@ The website features a modern dark theme with light-blue accents, responsive lay
 - CSS3
 - Git and GitHub
 
+
 ## Featured Projects
 
 ### 1. Expense Chart
@@ -34,27 +35,18 @@ A visual interface for exploring spending data.
 
 [View Source Code](https://github.com/rio-cl/rio0/tree/master/expenses-chart)
 
-### 2. Card Details Page
-An interactive card details form.
-
-[View Source Code](https://github.com/rio-cl/rio0/tree/master/card-detaails-form)
-
-### 3. Tip Calculator App
+### 2. Tip Calculator App
 An application for calculating tips and splitting bills.
 
 Includes a dedicated project details page within the portfolio.
 
 [View Source Code](https://github.com/rio-cl/rio0/tree/master/tip-calculator-app)
 
-### 4. Four Card Feature
-A responsive four-card interface presenting information in a structured layout.
+### 3. Card Details Page
+An interactive card details form.
 
-[View Source Code](https://github.com/rio-cl/rio0/tree/master/four-card-feaure)
+[View Source Code](https://github.com/rio-cl/rio0/tree/master/card-detaails-form)
 
-### 5. Shortly Website
-A responsive landing page for a URL-shortening service.
-
-[View Source Code](https://github.com/rio-cl/rio0/tree/master/url-shortening-api-master)
 
 ## Portfolio Features
 
