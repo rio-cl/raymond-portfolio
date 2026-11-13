@@ -174,7 +174,7 @@ function Home() {
             </h2>
 
             <p className="hero-description">
-              I'm a computer science student who enjoys
+              I'm a Software Engineering student who enjoys
               building software, exploring new technologies,
               and turning interesting ideas into useful
               digital experiences.
